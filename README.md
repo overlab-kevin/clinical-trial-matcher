@@ -2,6 +2,11 @@
 
 A tool that evaluates clinical trials against patient data using GPT to estimate eligibility and potential benefits.
 
+## Dislaimer
+This software is provided for research and informational purposes only. It is not intended to be a substitute for professional medical advice, diagnosis, or treatment. The eligibility estimates and benefit scores provided by this tool are generated using AI and should not be considered medical recommendations. Always consult with qualified healthcare professionals regarding clinical trial participation.
+
+The creators and contributors of this tool make no representations or warranties of any kind, express or implied, about the completeness, accuracy, reliability, suitability, or availability of the tool or the information it provides. Any reliance you place on such information is strictly at your own risk.
+
 ## Setup
 
 1. Clone the repository
